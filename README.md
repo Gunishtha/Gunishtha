@@ -22,11 +22,7 @@ analytics, and problem-solving. Strong organizational and leadership skills. See
 - **Database Management:** SQL Database (MySQL, PostgreSQL), NoSQL Database (MongoDB), Database Design 🛢️💾
 - **Data Visualization:** Tableau, Power BI, D3.js, Data Storytelling 📊📈
 
-## 🚀 Projects 🌐
 
-- [Project 1]: Brief description and link
-- [Project 2]: Brief description and link
-- [Project 3]: Brief description and link
 
 ## 🌱 Interests 🚀
 
